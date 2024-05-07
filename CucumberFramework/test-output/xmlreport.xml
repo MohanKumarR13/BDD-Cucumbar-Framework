@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cucumber" time="240.737" tests="17" skipped="0" failures="0" errors="0">
+<testcase classname="Background explanation" name="Study Medicine" time="0.078">
+<system-out><![CDATA[
+Given Student complete hsc..................................................passed
+Given Student complete school studies.......................................passed
+Given Student applied for medicine course...................................passed
+When Student cleared exam...................................................passed
+Then Student joins the college..............................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Background explanation" name="Study Engineering" time="0.06">
+<system-out><![CDATA[
+Given Student complete hsc..................................................passed
+Given Student complete school studies.......................................passed
+Given Student applied for engineering course................................passed
+When Student has cut off....................................................passed
+Then Student joins the engineering college..................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Login to OrangeHRM" name="login to OrangeHRM Live application in browser - Example #1.1" time="36.729">
+<system-out><![CDATA[
+Given You are on entering to login page landed in the browser...............passed
+When Your valid credentials for user login "Admin" and "admin123"...........passed
+And Click the login button action in the browser............................passed
+Then You should navigating to home screen...................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Login to OrangeHRM" name="login to OrangeHRM Live application in browser - Example #1.2" time="24.211">
+<system-out><![CDATA[
+Given You are on entering to login page landed in the browser...............passed
+When Your valid credentials for user login "Admin" and "admin123"...........passed
+And Click the login button action in the browser............................passed
+Then You should navigating to home screen...................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Login to OrangeHRM" name="login to OrangeHRM Live application in browser" time="22.284">
+<system-out><![CDATA[
+Given You are in entering to login page in the browser......................passed
+When Your valid credentials for login.......................................passed
+And Click the login button action...........................................passed
+Then You should navigating to home page screen..............................passed
+]]></system-out>
+</testcase>
+<testcase classname="Login to OrangeHRM" name="login to OrangeHRM Live application in browser" time="23.654">
+<system-out><![CDATA[
+Given You are on entering to login page in the browser......................passed
+When Your valid credentials.................................................passed
+And Click the login button..................................................passed
+Then You should navigating to home page.....................................passed
+]]></system-out>
+</testcase>
+<testcase classname="This is the expression explanation feature" name="This is the expression Scenario" time="0.677">
+<system-out><![CDATA[
+Given I have 1 laptop.......................................................passed
+Given I have a 7.0 CGPA.....................................................passed
+Given "John" is elder than "John" and "Mike"................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Hooks explanation" name="Hooks scenario explanation" time="0.065">
+<system-out><![CDATA[
+Given User have credentials.................................................passed
+When User entering an username with password................................passed
+And Enters the  login button action.........................................passed
+]]></system-out>
+</testcase>
+<testcase classname="This is the login feature" name="login to application" time="24.19">
+<system-out><![CDATA[
+Given User entering to login page...........................................passed
+When User enters valid username and password................................passed
+And Enters the login button.................................................passed
+Then user should navigate to home page......................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Login to OrangeHRM" name="login to OrangeHRM Live application in browser" time="26.747">
+<system-out><![CDATA[
+Given User entering to login page in the browser............................passed
+When Entering valid credentials "Admin" and "admin123"......................passed
+And Press login button......................................................passed
+Then user should navigating to home page....................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Open Google" name="Open Google Scenario" time="16.415">
+<system-out><![CDATA[
+Given User entering google.co.in............................................passed
+When User enters "github"...................................................passed
+And Enters the return key...................................................passed
+Then user should see the result set.........................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Open Google" name="Open Google" time="15.725">
+<system-out><![CDATA[
+Given User entering google.com..............................................passed
+When User entering the "github".............................................passed
+And Enters the search.......................................................passed
+Then user see the result set................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Test Tagged Hooks" name="This is First Scenario" time="0.164">
+<system-out><![CDATA[
+Given this is the first step................................................passed
+When this is the second step................................................passed
+Then this is the third step.................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Test Tagged Hooks" name="This is Second Scenario" time="0.178">
+<system-out><![CDATA[
+Given this is the first step................................................passed
+When this is the second step................................................passed
+Then this is the third step.................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Test Tagged Hooks" name="This is Third Scenario" time="0.002">
+<system-out><![CDATA[
+Given this is the first step................................................passed
+When this is the second step................................................passed
+Then this is the third step.................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="login feature" name="Valid login to application" time="21.66">
+<system-out><![CDATA[
+Given User enters login.....................................................passed
+When User enter a username with password....................................passed
+And Enter  login button action..............................................passed
+]]></system-out>
+</testcase>
+<testcase classname="login feature" name="Invalid login to application" time="25.653">
+<system-out><![CDATA[
+Given User enters login.....................................................passed
+When User enter a username with password....................................passed
+And Enter  login button action..............................................passed
+]]></system-out>
+</testcase>
+</testsuite>
