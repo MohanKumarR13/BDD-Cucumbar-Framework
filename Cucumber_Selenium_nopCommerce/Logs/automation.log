@@ -1,0 +1,29 @@
+2024-05-11 15:54:44,163  INFO [main] nopCommerceSDET:90 - ********* Verifying Dashboad page title after login successful **************
+2024-05-11 15:54:47,316  INFO [main] nopCommerceSDET:97 - ********* Clicking on customer main menu **************
+2024-05-11 15:54:49,642  INFO [main] nopCommerceSDET:104 - ********* Clicking on customer sub menu **************
+2024-05-11 15:55:05,586  INFO [main] nopCommerceSDET:142 - ********* Saving customer details **************
+2024-05-11 15:55:42,232  INFO [main] nopCommerceSDET:90 - ********* Verifying Dashboad page title after login successful **************
+2024-05-11 15:55:45,268  INFO [main] nopCommerceSDET:97 - ********* Clicking on customer main menu **************
+2024-05-11 15:55:47,700  INFO [main] nopCommerceSDET:104 - ********* Clicking on customer sub menu **************
+2024-05-11 15:55:49,463  INFO [main] nopCommerceSDET:157 - ********* Searching customer details by Email **************
+2024-05-11 15:56:59,476  INFO [main] nopCommerce:89 - ********* Verifying Dashboad page title after login successful **************
+2024-05-11 15:57:02,522  INFO [main] nopCommerce:96 - ********* Clicking on customer main menu **************
+2024-05-11 15:57:04,853  INFO [main] nopCommerce:103 - ********* Clicking on customer sub menu **************
+2024-05-11 15:57:32,509  INFO [main] nopCommerce:141 - ********* Saving customer details **************
+2024-05-11 15:58:00,327  INFO [main] nopCommerce:89 - ********* Verifying Dashboad page title after login successful **************
+2024-05-11 15:58:03,356  INFO [main] nopCommerce:96 - ********* Clicking on customer main menu **************
+2024-05-11 15:58:05,658  INFO [main] nopCommerce:103 - ********* Clicking on customer sub menu **************
+2024-05-11 15:58:07,376  INFO [main] nopCommerce:156 - ********* Searching customer details by Email **************
+2024-05-11 15:58:43,613  INFO [main] nopCommerce:89 - ********* Verifying Dashboad page title after login successful **************
+2024-05-11 15:58:46,641  INFO [main] nopCommerce:96 - ********* Clicking on customer main menu **************
+2024-05-11 15:58:48,963  INFO [main] nopCommerce:103 - ********* Clicking on customer sub menu **************
+2024-05-11 15:58:51,643  INFO [main] nopCommerce:177 - ********* Searching customer details by Name **************
+2024-05-11 15:59:31,975  INFO [main] nopCommerce:60 - Title isDashboard / nopCommerce administration
+2024-05-11 15:59:32,117  INFO [main] nopCommerce:67 - Title isDashboard / nopCommerce administration
+2024-05-11 15:59:48,318  INFO [main] nopCommerce:60 - Title isYour store. Login
+2024-05-11 15:59:48,381  INFO [main] nopCommerce:67 - Title isYour store. Login
+2024-05-11 16:00:21,214  INFO [main] nopCommerce:60 - Title isDashboard / nopCommerce administration
+2024-05-11 16:00:21,308  INFO [main] nopCommerce:67 - Title isDashboard / nopCommerce administration
+2024-05-11 16:00:30,796  INFO [main] nopCommerce:60 - Title isYour store. Login
+2024-05-11 16:00:30,827  INFO [main] nopCommerce:67 - Title isYour store. Login
+2024-05-11 16:00:49,049  INFO [main] nopCommerce:60 - Title isYour store. Login

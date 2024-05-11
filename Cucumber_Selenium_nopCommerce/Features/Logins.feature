@@ -1,5 +1,5 @@
 Feature: Login 
-
+@santiy
 Scenario: Sucessful Login with valid credentials 
 	Given User launch  browser 
 	When User open URL "https://admin-demo.nopcommerce.com/login?ReturnUrl=%2Fadmin%2F" 
@@ -9,7 +9,7 @@ Scenario: Sucessful Login with valid credentials
 	When User click on Logout link 
 	Then Page Title should be "Your store. Login" 
 	And  close browser 
-	
+	@regression
 Scenario Outline: Login Data Driven
 	Given User launch  browser 
 	When User open URL "https://admin-demo.nopcommerce.com/login?ReturnUrl=%2Fadmin%2F" 
